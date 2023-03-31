@@ -1,3 +1,4 @@
+
 # Created by https://www.toptal.com/developers/gitignore/api/intellij,java,eclipse,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=intellij,java,eclipse,visualstudiocode
 
@@ -13,7 +14,7 @@ local.properties
 .settings/
 .loadpath
 .recommenders
-
+.src/
 # External tool builders
 .externalToolBuilders/
 
