@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6028ad6a-b5c0-48cd-8ecc-68d9b4f72ab4" name="Changes" comment="Update">
-      <change afterPath="$PROJECT_DIR$/src/br/com/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/com/desafio/dominio/Dev.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/desafio/dominio/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/com/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +82,8 @@
       <workItem from="1680234270493" duration="255000" />
       <workItem from="1680235495710" duration="26000" />
       <workItem from="1680235537906" duration="1753000" />
-      <workItem from="1680271338448" duration="3857000" />
+      <workItem from="1680271338448" duration="3859000" />
+      <workItem from="1680739845158" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1680232791765</created>
