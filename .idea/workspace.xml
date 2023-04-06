@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6028ad6a-b5c0-48cd-8ecc-68d9b4f72ab4" name="Changes" comment="Update">
+    <list default="true" id="6028ad6a-b5c0-48cd-8ecc-68d9b4f72ab4" name="Changes" comment="Adição de comandos no Bootcamp e Dev.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/br/com/desafio/dominio/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Desafio-dio-POO/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Desafio-dio-POO/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/com/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/com/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +84,7 @@
       <workItem from="1680235495710" duration="26000" />
       <workItem from="1680235537906" duration="1753000" />
       <workItem from="1680271338448" duration="3859000" />
-      <workItem from="1680739845158" duration="1429000" />
+      <workItem from="1680739845158" duration="3623000" />
     </task>
     <task id="LOCAL-00001" summary="First Commit">
       <created>1680232791765</created>
@@ -162,7 +163,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680237170151</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Adição de comandos no Bootcamp e Dev.">
+      <created>1680741462400</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680741462400</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,6 +194,7 @@
     </ignored-roots>
     <MESSAGE value="First Commit" />
     <MESSAGE value="Update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+    <MESSAGE value="Adição de comandos no Bootcamp e Dev." />
+    <option name="LAST_COMMIT_MESSAGE" value="Adição de comandos no Bootcamp e Dev." />
   </component>
 </project>
